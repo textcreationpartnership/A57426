@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sinners warning-piece, or, Heavens messenger Instructing poor sinners in the way of repentance in these dangerous times; with many good instructions to every true Christian to take heed of seducing people, meaning such as will call themselves Christ. By Tho. Robins, B. of D.</title>
+            <author>Robins, Thomas, fl. 1672-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57426</idno>
+            <idno type="STC">Wing R1660</idno>
+            <idno type="STC">ESTC R219700</idno>
+            <idno type="EEBO-CITATION">99831152</idno>
+            <idno type="PROQUEST">99831152</idno>
+            <idno type="VID">35615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35615)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2039:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sinners warning-piece, or, Heavens messenger Instructing poor sinners in the way of repentance in these dangerous times; with many good instructions to every true Christian to take heed of seducing people, meaning such as will call themselves Christ. By Tho. Robins, B. of D.</title>
+                  <author>Robins, Thomas, fl. 1672-1685.</author>
+               </titleStmt>
+               <extent>[4], 18, [2] p. : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for S[arah] Tyus, at the sign of the three Bibles on the middle of London-bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>Woodcut portrait of author on half title bound following title page, and on verso of final leaf.</note>
+                  <note>Printer's first name from colophon.</note>
+                  <note>Advertisement on recto of final leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35615:1" rendition="simple:additions"/>
+            <p>THE SINNERS <hi>Warning-piece,</hi> OR, <hi>Heavens Meſſenger.</hi>
+            </p>
+            <p>Inſtructing poor ſinners in the way of Repentance in theſe dangerous times; with many good Inſtructions to every true Chri<g ref="char:EOLhyphen"/>ſtian to take heed of ſeducing people, mean<g ref="char:EOLhyphen"/>ing ſuch as will call themſelves Chriſt.</p>
+            <p>
+               <hi>But if any body ſhall ſay unto you, Lo here is Chriſt, or lo there is Chriſt, believe them not, for falſe Chriſts and falſe Prophets ſhall ariſe, and ſhall ſhew ſigns and wonders, to ſeduce, if it were poſſible, the very Elect; but take heed, behold I have told you all things,</hi> Mark 15. 21, 22, 23.</p>
+            <p>By <hi>THO. ROBINS,</hi> B. of D.</p>
+            <q>Take heed therefore to your ſelves, and to all the flock, for I know this, that after my departure ſhall grievous wolves enter in among you, not ſparing the flock, <bibl>Acts 20. 28, 29.</bibl>
+            </q>
+            <p>Printed for S. Tyus, at the ſign of the three Bibles on the middle of London-bridge.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:35615:2" rendition="simple:additions"/>
+            <pb facs="tcp:35615:2"/>
+            <head>THE Sinners Warning-piece, OR, Heavens Meſſenger.</head>
+            <p>
+               <figure/>
+            </p>
+            <p>By THO. ROBINS, B. of D.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35615:3"/>
+            <pb facs="tcp:35615:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35615:4"/>
+            <pb n="1" facs="tcp:35615:4" rendition="simple:additions"/>
+            <epigraph>
+               <bibl>
+                  <hi>Ezekiel</hi> 12. 1, 2, 3. <hi>ver.</hi>
+               </bibl>
+               <q>
+                  <hi>The word of the Lord alſo came unto me, ſaying, Son of man thou dwelleſt in the midſt of a rebellious houſe, who have eyes to ſee and ſee not, and have ears to hear and hear not, for they are a rebellious houſe, therefore thou Son of man prepare thou ſtuffe for removing, and remove by day in their ſight, and thou ſhalt remove from this place to another in their ſight, it may be they may conſider, although they be a rebellious houſe.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Y Beloved Brethren, I deſire you all that be here preſent, to take notice of theſe words that were ſent from the LORD, for the inſtru<g ref="char:EOLhyphen"/>ction of poor miſerable ſin<g ref="char:EOLhyphen"/>ners: For you may aſſure your ſelves, that it did not come forth of as
+<pb n="2" facs="tcp:35615:5"/>
+the mouth of any falſe Prophet, but they came from the mouth of the Lord, as you may read in the former <hi>verſe</hi> of the Text. And indeed, my brethren, we never ſtood in more need of good Meſſengers then we do at this time, for certainly a more rebellious people never lived in the world then there is now a days, I and in many kind of ways which I ſhall here lay open unto you.</p>
+            <p>In the firſt place, we have ſeen here the Father rebel againſt the Son, and the Son againſt the Father, and the Mother againſt her Daughter, and the Daughter againſt her Mother, and one neighbour againſt ano<g ref="char:EOLhyphen"/>ther, which you cannot ſay but it is a moſt miſerable caſe to ſee. I but here is a worſe Rebellion then all this, which is able to rent the heart of any Chriſtian that fears God, when I have related, and here laid it open unto you; therefore I deſire all thoſe that be here preſent to take notice and have a care of ſuch people. And in the firſt place, I deſire you to take notice of the words that our bleſ<g ref="char:EOLhyphen"/>ſed Lord and Saviour ſpeaks in the 24 <hi>ch.</hi> of <hi>Matthew,</hi> and the 4 <hi>ver.</hi> and there you ſhall ſee whether there be not a greater rebellion among us then any that I have named. For
+<pb n="3" facs="tcp:35615:5"/>
+when the Diſciples asked our Saviour, <hi>How they ſhould know when the end of the world ſhould come?</hi> Then our Saviour made them this anſwer.</p>
+            <p>
+               <hi>Then Jeſus anſwered and ſaid unto them, Take heed that no man deceive you, for many ſhall come in my Name, ſaying, I am Chriſt, and ſhall deceive many, Mat.</hi> 24. 4, 5.</p>
+            <p>We may ſee a great many ſuch people now adays, and certainly there cannot be a greater rebellion againſt God, then to ſeek to rob him of his power<g ref="char:punc">▪</g> I pray look into the 20 <hi>chap.</hi> of <hi>Exodus,</hi> at the beginning of that chapt. and there you ſhall ſee the Lord ſaid, <hi>Thou ſhalt have no other Gods but me.</hi>
+            </p>
+            <p>And we all know, who have any under<g ref="char:EOLhyphen"/>ſtanding, that Chriſt and God is all one. Then how can any man ſay, but it is a re<g ref="char:EOLhyphen"/>bellious condition for any man to call him Chriſt, but indeed I would deſire every true Chriſtian to have a care of ſuch peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>But I pray you take notice. I would not have you deſpiſe them, for certainly they be the very ſame people that our Saviour ſaid would come in the latter days. Therefore I rather exhort you to pray for them. For
+<pb n="4" facs="tcp:35615:6"/>
+as the Apoſtle <hi>Paul</hi> ſaid to the people in theſe words;</p>
+            <p>
+               <hi>I exhort you brethren, that firſt of all ſup<g ref="char:EOLhyphen"/>plications, prayers, interceſſions, and giving of thanks be made for all men,</hi> 1 <hi>Tim. chap.</hi> 2. <hi>ver.</hi> 1.</p>
+            <p>Indéed we do not know but the Lord may convert them. For look in <hi>Jam.</hi> 5. 16. and there you ſhall ſée that we ſhould pray for one another. For the Text there ſaith, <hi>Confeſs your faults one to another, and pray one for another, that you may be healed. The effectual fervent prayer of a righteous man ſhall be heard, Jam.</hi> 5. 16.</p>
+            <p>But alas my Brethren, Prayer is quite out of date with a great many now adays; but you may hear in many places a great many that are given to ſwear and to curſe, and to lying and diſſembling both with God and man, if it were poſſible. But I would have ſuch as theſe to have a care; for to be ſure there is a day that every poor ſoul muſt give account, for to be ſure the Lord will not be mocked. No, no, to be ſure, as he is a God of mercy and truth, ſo he is a God of juſtice. And when he doth come, to be ſure he will give every man accord<g ref="char:EOLhyphen"/>ing to his works.</p>
+            <p>
+               <pb n="5" facs="tcp:35615:6"/>
+But my Brethren, I deſire you to give me leave to mode one queſtion to you, and that is this.</p>
+            <p>In caſe the day of judgment was this day or this night, and the Angels were ſounding their Trumpets for all ſinners to come unto judgment, and the Lord of Hoſts ſtanding upon the judgment-ſeat with the ſword of juſtice in his hand. Then who is he that is able to ſtand in his preſence, I, or look him in the face? Nay, then happy would that ſinner be that were able to make anſwer for one ſin of a thouſand; yet there be many now adays will ſay they have no ſin; but let ſuch as they have a care what they do, for to be ſure they will find one day, that they be as great ſin<g ref="char:EOLhyphen"/>ners as any: indéed you may read in many places of Scripture, of many that were ſin<g ref="char:EOLhyphen"/>ners, but you ſhall read of few that were ſo righteous that they never ſinned.</p>
+            <p>I deſire you to look into <hi>Rom.</hi> 3. and there you may perceive, that in thoſe days all ſin<g ref="char:EOLhyphen"/>ned: <hi>What then? are we better then they? No in no wiſe, for what we have before proved, both Jews and Gentiles, that they are all under ſin, as it is written, There is none righteous, no not one.</hi>
+            </p>
+            <p>Nay look into the 8 chapter of the 1 book of
+<pb n="6" facs="tcp:35615:7"/>
+               <hi>Kings,</hi> about the 46 verſe, and there you ſhall ſée how <hi>Solomon</hi> prayed unto the Lord for ſinners.</p>
+            <p>
+               <hi>If they ſin againſt thee, for there is no man that ſinneth not, and if thou be angry with them, and deliver them to their enemies, ſo that they carry them away Captives into the Land of their Enemies. Yet if they ſhall bethink themſelves in the Land where they were carri<g ref="char:EOLhyphen"/>ed Captives, and repent and make their ſuppli<g ref="char:EOLhyphen"/>cations unto thee, then hear thou their prayers and ſupplications in Heaven thy dwelling place, and maintain their cauſe, and forgive thy peo<g ref="char:EOLhyphen"/>ple that have ſinned againſt thee,</hi> 1 <hi>Kings</hi> 8. 46.</p>
+            <p>Indéed my Brethren, you may here ſée by theſe parts of Scripture, and many more, that the people and the holy Prophets con<g ref="char:EOLhyphen"/>feſſed themſelves ſinners. Then how dare we be ſo bold, as to ſay we have no ſin. In<g ref="char:EOLhyphen"/>déed I do not accuſe any man with it, but indéed I would deſire every chriſtian to have a care that they be not ſeduced by ſuch peo<g ref="char:EOLhyphen"/>ple; for certainly there be too many of them abroad now adays, for juſt as the Fox lyeth in wait to devour the innocent Lamb, even ſo do theſe people ſéek day and night to de<g ref="char:EOLhyphen"/>ceive
+<pb n="7" facs="tcp:35615:7"/>
+(as the Scripture ſaith) <hi>even the very Elect if it were poſſible.</hi> But I deſire you all that be here preſent to have a care of them, for certainly they be the ſame people that the Apoſtle ſpeaks of in 2 <hi>Tim.</hi> 3. <hi>chap.</hi>
+            </p>
+            <p>
+               <hi>For the time will come when they will not not endure ſound Doctrine, but after their own luſt ſhall they heap unto themſelves Teachers, having itching ears, and they turn away their ears from the truth, and be turned into Fables.</hi>
+            </p>
+            <p>Indéed we may ſée too many ſuch abroad now that cannot indure ſound Doctrine; but they will have Teachers of their own, al<g ref="char:EOLhyphen"/>though they can ſcarce read the Primer, yet they muſt be teachers of others, when alas poor ſouls little do they know what a piece of work they have in hand.</p>
+            <p>Indéed, my brethren, I cannot perceive but this coms to them out of a high ſtubborn mind, thinking to themſelves that there is none ſo pure and ſo holy as they. All learning one of another; but you ſhall ſeldom ſee them come to any Church. No, no, ſuch as thoſe had rather be creeping into ſome houſe by y<hi rend="sup">e</hi> warm fire deceiving one another. Indeed I
+<pb n="8" facs="tcp:35615:8"/>
+deſire you that be here preſent, to look into the 2 <hi>Tim.</hi> ch. 3. ver. 4, 5, 6. and there you ſhall find it plainly laid open unto you; for <hi>Timothy</hi> telleth us plainly the condition of them: For in verſe 4. ſays he. <hi>They are trai<g ref="char:EOLhyphen"/>tors, heady, light-minded, lovers of pleaſure more then lovers of God, having a form of god<g ref="char:EOLhyphen"/>lineſs, but denying the power thereof, from ſuch turn away.</hi>
+            </p>
+            <p>And in the next verſe he tells us why we ſhould turn away from them. <hi>For of this ſort are they that creep into houſes, and lead cap<g ref="char:EOLhyphen"/>tive ſilly women laden with ſins, and led away captive with divers luſts,</hi> 2 <hi>Tim. chap.</hi> 3. <hi>ver.</hi> 4, 5, 6, 7.</p>
+            <p>Indéed methinks this ſhould be enough to ſatisfie you for to have a care of theſe ſedu<g ref="char:EOLhyphen"/>cing people; for certainly, if that they do but once catch you in their ſnare, you will not find it ſo eaſie to get out again: Indéed if you but pleaſe to look into the two following verſes of this Chapter, I hope it will give you a great deal more ſatisfaction concern<g ref="char:EOLhyphen"/>ing theſe people.</p>
+            <p>
+               <hi>Now as Jannes and Jambres did withſtand Moſes, ſo do theſe alſo reſiſt the truth, men of corrupt minds, reprobates concerning the Faith.</hi> I but here in the next verſe you may
+<pb n="9" facs="tcp:35615:8"/>
+hear a great deal of ſwéet comfort in theſe words.</p>
+            <p>
+               <hi>But they ſhall proceed no further, but their folly ſhall be made manifeſt to all men;</hi> as you may find in the 8, 9.</p>
+            <p>Indéed we may ſée their folly every day in one place or another. I deſire you to léek in the 8. chap. of <hi>Jeremiah,</hi> about the 18, 19. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and ſee there what the Prophet ſaith.</p>
+            <p>
+               <hi>Therefore hear ye Nations, and now O Con<g ref="char:EOLhyphen"/>gregations what is among them, hear, O Earth, behold I will bring evil upon this people, even the fruit of their thoughts, becauſe they haue not hearkened to my words, nor to my law, but rejected it.</hi>
+            </p>
+            <p>Indéed the Lord gives us a fairer warn<g ref="char:EOLhyphen"/>ing-piece if we would but conſider of it; but alas how many is there that regards it? I pray you hearken to the voice of the Lords Meſſenger, <hi>Jer.</hi> 5. 21, 22.</p>
+            <p>
+               <hi>Hear this O fooliſh people, and without un<g ref="char:EOLhyphen"/>derſtanding, which have eyes and ſee not, ears and hear not, Fear ye not me? ſaith the Lord, will ye not tremble at my preſence?</hi>
+            </p>
+            <p>O let us have a care of provoking the Lord too much to wrath, but let us ſtrive with one another to ſerve the Lord our God<g ref="char:punc">▪</g> for he is a righteous God, full of mercy and
+<pb n="10" facs="tcp:35615:9"/>
+love to all poor ſinners? If we would not re<g ref="char:EOLhyphen"/>ceive his love and bleſſings with a thankful heart, and be content with what he ſends, then we might very well cauſe the Lord to ſpeak as comfortable to us as he ſpeaks to the people in <hi>Iſaiah</hi> 41. <hi>ver.</hi> 9, 10. Indeed it is a place worth your obſervation, and hap<g ref="char:EOLhyphen"/>py is that man or woman whatſoever they be, rich or poor, that doth deſerve to have the ſame words ſpoken unto them, and theſe are they, I pray you that be here preſent give your attention to them. <hi>Thou whom I have taken from the ends of the earth, and called thee from the chief men thereof, and ſaid unto thee, thou art my ſervant, I have choſen thee, and not caſt thee away.</hi>
+            </p>
+            <p>
+               <hi>Fear thou not, for I am with thee, be not diſ<g ref="char:EOLhyphen"/>maid, for I am thy God, I will ſtrengthen thee, I will help thee, yea I will uphold thee with the right hand of my righteouſneſs.</hi>
+            </p>
+            <p>O my Brethren, what a great bleſſing had thoſe people, to hear the Lord ſpeak theſe comfortable ſpeeches unto them, as to ſay <hi>He would uphold them with the right hand of Righteouſneſs.</hi> Alas, which of you all that is here preſent, but if it pleaſe God to ſtrike you with ſickneſs, ſo that you fainted, and
+<pb n="11" facs="tcp:35615:9"/>
+were ready to fall at every ſtep, then he that would be always ready to hold and ſupport you up, then you would think your ſelf much beholding to him. O happy are they that have ſuch a graciaus upholder as this, that <hi>can uphold every poor ſoul with the right hand of his Righteouſneſs.</hi>
+            </p>
+            <p>O therefore let every one of us ſtrive to get the favour of ſo gracious a God as we have; therefore let us all with one heart and voice ſay as <hi>Job</hi> ſaid, <hi>ch.</hi> 50. <hi>v.</hi> 3, 4, 5, 6. <hi>Who is he that hideth counſel without knowledge? Therefore have I uttered that I underſtood, not things too wonderful for me, which I knew not. Hear, I beſeech thee, and I will ſpeak, I will demand of thee, and declare thou unto me, I have heard of thee by the hearing of the ear, but now my eyes ſeeth thee, therefore I abhor my ſelf, and repent in duſt and aſhes.</hi>
+            </p>
+            <p>Here you may ſee the humble beart of <hi>Job,</hi> to repent in duſt and aſhes, we now adayes, inſtead of repenting in duſt and aſhes, we re<g ref="char:EOLhyphen"/>pent in ſilks and ſatins; but we may aſſure our ſelves, that there is a day to come that we muſt give an account, then happy is he that could ſay as <hi>David</hi> did, in <hi>Pſalm</hi> 131.
+<pb n="12" facs="tcp:35615:10"/>
+12. <hi>ver. Lord, my heart is not haughty, nor my eyes lofty, nor do I exerciſe my ſelf in great matters, or in things too high for me, ſurely I have behaved and guided my ſelf as a child that is weaned of his mother, my ſoul is even as a weaned child.</hi>
+            </p>
+            <p>O what a happy condition was this man in, that he could ſay, his ſoul was like a weaned child! Indeed my brethren, I could wiſh that every poor ſoul in the world could ſay ſo, but alas, we are given too much to pride, hatred, malice and envy, and ſéeking one to undo another by one means or other; but alas, that is quite contrary to that ſay<g ref="char:EOLhyphen"/>ing of <hi>James,</hi> that I told you but now, for he ſaith, <hi>VVe muſt love one another.</hi> And <hi>Iſaiah</hi> ſaith, <hi>VVo unto them that decree unrighteous decrees to turn aſide the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they rob the fatherleſs.</hi>
+            </p>
+            <p>I pray God there be not too many ſuch in <hi>England</hi> now adays; but I am afraid there be too many ſuch abroad, but I pray God give them grace to refrain it; for <hi>Solomon</hi> ſaith, <hi>Pr.</hi> 22. 16. <hi>he that oppreſſeth the poor for to in<g ref="char:EOLhyphen"/>creaſe his riches, and he that giveth to the rich ſhall</hi>
+               <pb n="13" facs="tcp:35615:10"/>
+               <hi>ſurely come to want,</hi> and 22, 23. verſes of that chapter he ſays.</p>
+            <p>
+               <hi>Rob not the poor becauſe he is poor, nei<g ref="char:EOLhyphen"/>ther oppreſs the afflicted in the gates, for the Lord will plead their cauſe, and ſpoil the ſoul of thoſe that ſpoil them.</hi>
+            </p>
+            <p>Therefore in the Name of God I do de<g ref="char:EOLhyphen"/>ſire, that we may all have a care how we ſéek to wrong the widow and the fatherleſs, or any poor diſtreſſed creature, but rather ſtrive to aid and aſſiſt them as the Lord hath enabled us, &amp; if you have not whereby to relieve their wants, then pray for them, and by doing ſo, thou mayſt ſhew thy en<g ref="char:EOLhyphen"/>deavour, and ſo carry thy ſelf blameleſs. But alas, Prayer is out of date with a great many, but I muſt néeds tell ſuch as thoſe, that if they refrain themſelves from Prayer, I may boldly ſay, they do not tru<g ref="char:EOLhyphen"/>ly offer repentance; I deſire you to look in the fifth Pſalm, and there you ſhall ſée how <hi>David</hi> repents by prayer.</p>
+            <p>
+               <hi>Give ear to my words (O Lord) conſider my meditations, hearken unto the voice of my cry, my King and my God, for unto thee will I pray, my voice ſhall be heard in the morn<g ref="char:EOLhyphen"/>ing, O Lord, in the morning will I direct my prayer unto thee, Pſal.</hi> 5. 1, 2, 3.</p>
+            <p>
+               <pb n="14" facs="tcp:35615:11"/>
+Nay my brethren, there are many more places in Scripture that doth exhort us unto prayer, I and Chriſt himſelf did com<g ref="char:EOLhyphen"/>mand his Apoſtles to pray, as you may find it written in the 6. of <hi>Mat.</hi> 9. there he com<g ref="char:EOLhyphen"/>mands his Apoſtles to pray, <hi>Our Father which art in heaven, &amp;c.</hi>
+            </p>
+            <p>And this is a prayer which is deſpiſed by a great many. But you may ſée here, that our Savior Ieſus Chriſt loved and warn<g ref="char:EOLhyphen"/>ed his Diſciples to ſay it. And therefore we ought to ſay it, for I am ſure, that there is no Chriſtian that liveth in the fear of God, that will deny the Lords prayer, or any o<g ref="char:EOLhyphen"/>ther that are lawful and good, and for ſuch people as hold the Lords prayer, or any o<g ref="char:EOLhyphen"/>ther prayer as vain babling (as ſome will ſay) I deſire ſuch as they to look into <hi>Iſa.</hi> 38. and there you may ſée whether prayer be good or no.</p>
+            <p>
+               <hi>In thoſe days was Hezekiah ſick to death, and Iſaiah the Prophet, the ſon of Amos, came unto him, and ſaid, Thus ſaith the Lord, ſet thy houſe in order, for thou ſhalt die, and not live.</hi>
+            </p>
+            <p>
+               <hi>Then Hezikiah turned his face toward the wall, and prayed unto the Lord, and ſaid, Remember now, O Lord, I beſeech thee, how I have walked before thee in truth, and with a</hi>
+               <pb n="15" facs="tcp:35615:11"/>
+               <hi>perfect heart, and have done that which is good in thy ſight. Then Hezekiah wept ſore.</hi>
+            </p>
+            <p>But now I would deſire you to conſider the prevailing of his prayer, for when the Lord ſaw and heard how faithfully he prayed, he ſent <hi>Iſaiah</hi> to him again.</p>
+            <p>
+               <hi>Then came the word of the Lord to Iſaiah, ſaying, go and ſay to Hezekiah, Thus ſaith the Lord, the God of David thy father, I have heard thy prayer, and ſeen thy tears, behold I will add unto thy time fifteen years, I will deliver thee and this City out of the hand of the King of Aſſyria, and I will defend this Ci<g ref="char:EOLhyphen"/>ty;</hi> as you may read it in <hi>Iſaiah</hi> the 38. beginning at the firſt verſe to the ſixt.</p>
+            <p>Now I would deſire thoſe people that deny prayer, to conſider whether that pray<g ref="char:EOLhyphen"/>er be good or no: for here you may ſée, that the Prophet prevailed much with the Lord: for firſt, the Lord prolonged his life for 15. years, nay, more then that, he defended the whole City from their enemies for his ſake. I pray God that every Chriſtian would deſire the Lord to give them ſo much grace, as to pray to him to defend us and this City of <hi>London</hi> from the hands of all our enemies, which no doubt but he will, if we but pray with a true heart, as the Pro<g ref="char:EOLhyphen"/>phet
+<pb n="16" facs="tcp:35615:12"/>
+did: And I deſire to give you one word or two more, and ſo to draw to a concluſion and that is this, I charge you in the Name of God, that when you pray, to deſire the Lord to bleſs and guide you from all ſuch as would hinder you from prayer, or from any good devotion. I mean, that you ſhould not refrain neither Church nor good Ser<g ref="char:EOLhyphen"/>mons, for to be ſure you cannot hear too much of any good inſtruction.</p>
+            <p>And laſtly, I deſire you to look into the 2 of <hi>Joel,</hi> and 12. 13. ver. and there you ſhall ſée what comfortable ſpéeches the Lord himſelf gave to his people:</p>
+            <p>
+               <hi>Therefore alſo now ſaith the Lord, Turn you even to me with all your heart, and with faſting, and weeping, and with mourning, and rent your hearts, and not your garments, and turn to the Lord your God, for he is a merciful and gracious God, ſlow to anger, and of great kindneſs, Joel</hi> 2. 12, 13.</p>
+            <p>Indéed if we have not hearts of ſtone, methinke it would move us to repent: therefore in the name of God have a care to ſerve the Lord, and that withall your heart, and I wil ſo conclude with theſe few words, that is, I pray God give you all grace to make good uſe of what you have
+<pb n="17" facs="tcp:35615:12"/>
+heard at this preſent, and this little Book may be a warning-piece to you all, for I will aſſure you, here is nothing in it but what is good, and with making good uſe of it, it may be a great means to guide you in<g ref="char:EOLhyphen"/>to the way of ſalvation: And ſo with the words of <hi>Paul</hi> an Apoſtle, <hi>Not of men, nei<g ref="char:EOLhyphen"/>ther by men, but by Jeſus Chriſt, and God the Father, who raiſed him from the dead, and all the brethren that are with me, Grace be to you, and peace from God the Father, and from our Lord Jeſus Chriſt, who gave himſelf for our ſins, that he might deliver us from this preſent evil world, according to the will of God the Father;</hi> and no doubt but he will if we will but do our endeavours to ſerve him, which the Lord of his heavenly mer<g ref="char:EOLhyphen"/>cy give us all grace ſo to do; and not with our lips outwardly, but with all our hearts, and with all our ſouls, and with all our minds, and all for the merits of thy Son our only Lord and Saviour Ieſus Chriſt, who ſhed his moſt precious blood for us, and for all true believers, to him, and to none but him, be given all honour, praiſe, and thankſgiving, both now and for ever<g ref="char:EOLhyphen"/>more. <hi>And ſo the Grace of our Lord and Saviour be with us all the reſt of our time,</hi>
+               <pb n="18" facs="tcp:35615:13"/>
+               <hi>henceforth and for evermore.</hi> Amen.</p>
+            <closer>
+               <signed>Yours in Chriſt Jeſus, Tho. Robins.</signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <head>A ſhort Prayer, very good to put every ſinner in remembrance of our Lord Jeſus Chriſt.</head>
+            <p>O Moſt gracious, and moſt glorious, and ever living Lord God, thou that ſitteſt on thy throne, ready to give judgement to all ſinners, thou ſheweſt thy ſelf very ſlow to an<g ref="char:EOLhyphen"/>ger, or elſe thou mighteſt utterly deſtroy us in the twinkling of an eye. So ſeeing thou art ſo merciful to us, vve thy poor ſervants, duſt and no men by reaſon of our carnal ſins, do deſire thee, out of thy tender mercy, to give a bleſſing to us the reſt of this day. And grant, O moſt gracious God, to give us grace to make good uſe of what we have heard this day: and grant, O moſt glorious God, that it may be ſo grafted in our hearts, that it may be as good ſeed ſown in good ground, that it may increaſe abundantly, to the glory of thy holy Name, the good of every one of us, to the joy and comfort of our poor ſouls: And moſt gra<g ref="char:EOLhyphen"/>cious God, we beg on thee, for thy Son Jeſus Chriſts ſake, to guide and keep us from the inticements of ſuch ſeducing people, which thy holy vvord gives us warning of, ſuch as
+<pb facs="tcp:35615:13"/>
+ſeek night and day to rob thee of thy glory, and honour, and ſeek to beat down the Mini<g ref="char:EOLhyphen"/>ſtry, and to trample the Goſpel under their feet. Yet, O Lord, vve know thou haſt power either to convert them, or to cut them off vvhen thy vvill and pleaſure is, and ſo, O Lord, we deſire thee, for thy Son our Saviours ſake, to go along with us this day, and for ever<g ref="char:EOLhyphen"/>more. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>THere are two other ſmall Books worth the reading over: One is intituled,</hi> The goodneſs of God to all true Belivers in the Lord Jeſus Chriſt the righteous, our Advocate, and only Mediator and Redeemer.</p>
+            <p>
+               <hi>The other is,</hi> Chriſt upon the Croſs, ſuffering for ſinners, or the ſinners Redemption, Sanctification, and Exaltation by the death and bitter paſſion of our Lord and Saviour Jeſus Chriſt.</p>
+            <p>
+               <hi>And are to be ſold by Sarah Tyus, at the ſign of the three Bibles on the middle of London. Bridge.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:35615:14"/>
+            <p>
+               <figure/>
+            </p>
+            <pb facs="tcp:35615:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
